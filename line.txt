@@ -1,0 +1,12 @@
+Norcross;Need any seat to take a breather, life is too much;5
+TestGroup1;no special seating needed;2
+TestGroup2;high chair;10
+group3;no special seating needed;11
+group4;wheel chair;14
+group5;no special seating needed;12
+group6;no special seating needed;7
+group7;high chair;19
+group8;no special seating needed;2
+group9;no special seating needed;1
+group10;no special seating needed;3
+
