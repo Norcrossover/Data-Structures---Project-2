@@ -1,9 +1,6 @@
 # Data-Structures---Project-2
 Programming Assignment #2
 CS 260 Data Structures
-ALWAYS make a backup of your programs before using tar
-Double check that the arguments specified with for tar are correct!
-Late penalties will apply to all submissions incorrectly archived/emailed
 
 Goal: The purpose of the second programming assignment is to experience stacks, queues, and new data structures. The data structures for this assignment are an array and a circular linked list. 
 
